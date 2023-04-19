@@ -2,6 +2,10 @@
 
 A simple web application built with Streamlit that converts Jupyter Notebooks to PDF files.
 
+![Jupyter Notebook to PDF Converter](img.png)
+
+
+
 ## Features
 
 * Upload a Jupyter Notebook file (.ipynb) and convert it to a PDF file
