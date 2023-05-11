@@ -40,9 +40,10 @@ Install the required dependencies using pip:
 
     pip install -r requirements.txt
 
-Install wkhtmltopdf
+### Install wkhtmltopdf
 
 This project requires the wkhtmltopdf tool for PDF conversion. Follow the installation instructions on the official website: https://wkhtmltopdf.org/downloads.html
+
 ## Usage
 ### Running the Streamlit app
 
