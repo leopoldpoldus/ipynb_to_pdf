@@ -23,7 +23,7 @@ A simple web application built with Streamlit that converts Jupyter Notebooks to
 
 Clone this repository to your local machine using:
 
-    git clone https://github.com/yourusername/notebook-to-pdf-converter.git
+    git clone https://github.com/leopoldpoldus/notebook-to-pdf-converter.git
     cd notebook-to-pdf-converter
 
 ### Setup virtual environment (Optional)
